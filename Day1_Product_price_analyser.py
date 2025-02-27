@@ -148,3 +148,5 @@ def get_best_deal():
 if __name__ == "__main__":
     app.run(debug=True)
 
+# run the file
+# open any browser and run the URL "http://127.0.0.1:5000/get_best_deal?product=iphone+15"
